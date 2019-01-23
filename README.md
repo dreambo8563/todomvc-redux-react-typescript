@@ -12,6 +12,8 @@ Read more about it in my blog post: http://jaysoo.ca/2015/09/26/typed-react-and-
 
 ## Getting Started
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dreambo8563/todomvc-redux-react-typescript.svg)](https://greenkeeper.io/)
+
 Requirement:
 
 - NodeJS 4+
